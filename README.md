@@ -54,9 +54,9 @@ ciência de dados.
 - Aplicação de modelos simples de machine learning
 - Integração com dados externos ou APIs
 
-![Distribuição de Energy por Gênero](grafico_energygenero.png)
+![Distribuição de Energy por Gênero](grafico%20energygenero.png)
 
-![Energia VS Popularidade](grafico_energypop.png)
+![Energia VS Popularidade](grafico%20energypop.png)
 
 ![Boxplot](features.png)
 
