@@ -53,3 +53,12 @@ análise exploratória de dados e visualização, servindo como estudo introdut�
 ciência de dados.
 - Aplicação de modelos simples de machine learning
 - Integração com dados externos ou APIs
+
+![Distribuição de Energy por Gênero](grafico_energygenero.png)
+
+![Energia VS Popularidade](grafico_energypop.png)
+
+![Boxplot](features.png)
+
+![Distribuição das Features de áudio](5graf.png)
+
